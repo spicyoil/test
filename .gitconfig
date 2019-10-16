@@ -1,0 +1,11 @@
+[http]
+	proxy = http://proxy.kanto.sony.co.jp:10080
+[https]
+	proxy = https://proxy.kanto.sony.co.jp:10080
+[user]
+	email = zyj0818@gmail.com
+	name = spicyoil
+[alias]
+	st = status
+	br = branch -avv
+	co = checkout
